@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-07T11:25:11 IST" name="Default suite" finished-at="2023-09-07T11:25:11 IST" duration-ms="45">
+    <groups>
+    </groups>
+    <test started-at="2023-09-07T11:25:11 IST" name="Default test" finished-at="2023-09-07T11:25:11 IST" duration-ms="45">
+      <class name="Tone.Priority1">
+        <test-method signature="testmethod1()[pri:1, instance:Tone.Priority1@1e6454ec]" started-at="2023-09-07T11:25:11 IST" name="testmethod1" finished-at="2023-09-07T11:25:11 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method signature="syso1()[pri:2, instance:Tone.Priority1@1e6454ec]" started-at="2023-09-07T11:25:11 IST" name="syso1" finished-at="2023-09-07T11:25:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- syso1 -->
+        <test-method signature="syso()[pri:3, instance:Tone.Priority1@1e6454ec]" started-at="2023-09-07T11:25:11 IST" name="syso" finished-at="2023-09-07T11:25:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- syso -->
+      </class> <!-- Tone.Priority1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
