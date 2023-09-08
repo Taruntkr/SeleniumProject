@@ -21,5 +21,6 @@ public class Priority1 {
 	@Test(priority=2)
 	private void syso1() {
 	System.out.println("Test Method 2");
+		Reporter.log("hi this is tarun");
 	}
 }
